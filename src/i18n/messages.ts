@@ -1996,6 +1996,7 @@ export const messages = {
             latitude: "Latitude",
             longitude: "Longitude",
             loading: "Loading...",
+            not_found: "Not found",
         },
         settings_members: {
             unknown_member: "this member",
